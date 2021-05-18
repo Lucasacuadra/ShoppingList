@@ -1,0 +1,60 @@
+{
+  "data": {
+    "getAllIngredients": [
+      {
+        "id": "6085356416a736081ae8d36a",
+        "name": "Eggs",
+        "quantity": 8,
+        "measurment": "whole"
+      },
+      {
+        "id": "6087fda08dfec415c7562a2a",
+        "name": "Eggs",
+        "quantity": 8,
+        "measurment": "whole"
+      },
+      {
+        "id": "6097e28795c52c520b927cb4",
+        "name": "Eggs2",
+        "quantity": 8,
+        "measurment": "whole"
+      },
+      {
+        "id": "6097e40fab1f4152240c6682",
+        "name": "Eggs2",
+        "quantity": 8,
+        "measurment": "whole"
+      },
+      {
+        "id": "6098bfb193b368580960125a",
+        "name": "Eggs2",
+        "quantity": 8,
+        "measurment": "whole"
+      },
+      {
+        "id": "609d3a28f6408b824473a35c",
+        "name": "Eggs2",
+        "quantity": 8,
+        "measurment": "whole"
+      },
+      {
+        "id": "609d3a32f6408b824473a35d",
+        "name": "Eggs233",
+        "quantity": 8,
+        "measurment": "whole"
+      },
+      {
+        "id": "609e5e420d85ed88c368eb55",
+        "name": "Bacon",
+        "quantity": 8,
+        "measurment": "whole"
+      },
+      {
+        "id": "60a29f8d080b07be0ccd13fb",
+        "name": "test",
+        "quantity": 2,
+        "measurment": "grams"
+      }
+    ]
+  }
+}
